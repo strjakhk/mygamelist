@@ -37,9 +37,6 @@ For the class **GameInfo** (**gameinfo.py**) to make API requests, an environmen
     API_KEY=your_api_key_here
 ```
 
-    Note: I included my current public API key for testing purposes.
-    If it expires, you will need to obtain a new one from RAWG
-
 
 ## Program Flow
 
@@ -73,3 +70,4 @@ The favorites list is implemented as an object with the following methods:
 - Improve error handling for expired or invalid API keys.
 - Expand the interface after selecting a game to show more info about the game.
 - Expand the UI to support more interactive features.
+
