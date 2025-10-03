@@ -1,0 +1,6 @@
+### Required libraries ###
+
+requests
+tabulate
+dotenv
+pytest
